@@ -18,5 +18,3 @@ print(classes)
 # This for loop uses index, which numbers each class, adding +1 is so the number starts at 1 instead of 0
 for index, c in enumerate(classes):
     print(index + 1, c)
-
-print('This is a test message to ')
